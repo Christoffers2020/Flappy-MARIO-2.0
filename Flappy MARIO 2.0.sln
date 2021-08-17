@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flappy MARIO 2.0", "Flappy MARIO 2.0\Flappy MARIO 2.0.csproj", "{5DF8F31C-BFF3-4FAF-AB1B-D05B74DD0B7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DF8F31C-BFF3-4FAF-AB1B-D05B74DD0B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF8F31C-BFF3-4FAF-AB1B-D05B74DD0B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF8F31C-BFF3-4FAF-AB1B-D05B74DD0B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF8F31C-BFF3-4FAF-AB1B-D05B74DD0B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68011862-D49C-4B42-9A21-FE05B4B54A2B}
+	EndGlobalSection
+EndGlobal
